@@ -1,0 +1,6 @@
+<div>
+	<label for="$C2$">
+		<input name="$C3$" id="$C2$" value="$C1$" type="checkbox" />
+		$C4$
+	</label>
+</div>

@@ -1,0 +1,6 @@
+<div>
+	<label for="$C2$">
+		<input name="$C1$" id="$C2$" value="$C2$" type="radio" />
+		$C3$
+	</label>
+</div>
