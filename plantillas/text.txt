@@ -1,0 +1,5 @@
+<div>
+	<label for="$C1$">$C2$</label> 
+	<input type="text" id="$C1$" name="$C1$" size="20" alt="Texto de entrada para $C2$" />
+</div>
+
